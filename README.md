@@ -1,5 +1,5 @@
 # Solitaire
-This repository contains code for a variation of spider solitaire, reverse spider solitaire, that begins with a completely dealth game that a player must work back from, without any knowledge of the previous moves made.
+This repository contains code for a variation of spider solitaire, reverse spider solitaire, that begins with a completely dealt game that a player must work back from, without any knowledge of the previous moves made.
 
 # Compilation Instructions
 Clone the github repository using the following command:
